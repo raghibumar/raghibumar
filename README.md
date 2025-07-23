@@ -143,3 +143,10 @@
 <!----------------------------------- Visitor Counter Section ------------------------------------>
 
 [![](https://visitcount.itsvg.in/api?id=raghibumar&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<!----------------------------------- Footer Section ------------------------------------>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/raghibumar" target="_blank"><b>Abu Raghib Umar</b></a>
+</p>
+
