@@ -1,3 +1,14 @@
+🔭 I’m currently working on building scalable, user-friendly web apps using React.js, Redux Toolkit, and TypeScript at Q3 Technologies.
+
+🤝 I’m looking to collaborate on frontend-heavy projects or full-stack MERN applications that solve real-world problems.
+
+💬 I’m looking for help with sharpening my backend skills, particularly around system design and advanced API security.
+
+🌱 I’m currently learning Next.js and diving deeper into performance optimization and testing tools like Jest and React Testing Library.
+
+💬 Ask me about React.js, Redux, UI/UX architecture, or how to organize scalable frontend codebases.
+
+⚡ Fun fact: I transitioned into tech through a full-time MERN Bootcamp at Masai School, after which I’ve contributed to HRM and OEE systems for enterprise clients.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/raghibumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/abu-raghib-umar-933b58171?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bskkqtyeasz2bdeo4jocxoq%3d%3d) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@raghibumar2) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://twitter.com/raghib_umar2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/raghib_umar2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghibumar2@gmail.com) 
